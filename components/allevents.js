@@ -61,6 +61,10 @@ const AllEvents = () => {
                   <p className="mr-2">Event Time:</p>
                   <p>{event.time || "Not available"}</p>
                 </div>
+                <div className="flex flex-wrap">
+                  <p className="mr-2">No of Students registered</p>
+                  <p>{event.registered.length}</p>
+                </div>
               </li>
             ))}
           </ul>

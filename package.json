@@ -1,6 +1,6 @@
 {
-  "name": "adminsigma",
-  "version": "0.1.0",
+  "name": "admin_potal_for_admins",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
