@@ -37,6 +37,6 @@ You can clone the repository and then add any features like Filter events by cat
 If you are familiar with MongoDB data api, you can add feature to delete events.
 
 ## Images of the project
-![alt text]("/img/Screenshot (2).png")
-![alt text]("/img/Screenshot (3).png")
-![alt text]("/img/Screenshot (4).png")
+![Image1](https://github.com/abhideepkumar/adminsigma/blob/master/public/img/Screenshot%20(2).png)
+![Image2](https://github.com/abhideepkumar/adminsigma/blob/master/public/img/Screenshot%20(3).png)
+![Image3](https://github.com/abhideepkumar/adminsigma/blob/master/public/img/Screenshot%20(4).png)
